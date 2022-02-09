@@ -1,10 +1,10 @@
-# Bike-Sharing-Assignment
+## Bike-Sharing-Assignment
 
-*Bike Sharing.ipynb
+**Bike Sharing.ipynb
 
 
 
-# Requirements
+## Requirements
 
 ```
 *python
@@ -13,3 +13,6 @@
 *sklearn
 *statsmodels
 ```
+
+## File of Subjective Question and Answer
+Linear_Regression_Subjective_Answer.pdf
