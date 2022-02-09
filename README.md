@@ -7,11 +7,11 @@ Bike Sharing.ipynb
 ## Requirements
 
 ```
-#python
-#pandas
-#seaborn
-#sklearn
-#statsmodels
+*python
+*pandas
+*seaborn
+*sklearn
+*statsmodels
 ```
 
 ## File of Subjective Question and Answer
